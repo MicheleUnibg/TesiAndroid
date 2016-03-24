@@ -1,6 +1,2 @@
 # TesiAndroid
-# TesiAndroid
-# TesiAndroid
-# TesiAndroid
-# TesiAndroid
-# TesiAndroid
+Caricare solo i file sorgenti. Il progetto scrapy no, non cambia.
